@@ -1,3 +1,3 @@
-This is a git learning model
+This is the main branch version
 I am learning it for open source
 This change is being made on my feature branch only.
